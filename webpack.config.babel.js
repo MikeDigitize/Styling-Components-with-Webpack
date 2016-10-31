@@ -29,7 +29,7 @@ module.exports = {
             loader: ExtractTextPlugin.extract('style-loader', 'css-loader?modules!sass-loader')
         }, {
             test: /\.scss$/,
-            exclude: /css-modules-styles\.scss/,
+            exclude: /css-react-modules-styles\.scss$|css-modules-styles\.scss$/,
             loader: ExtractTextPlugin.extract('style-loader', 'css-loader?sass-loader')
         }]
     },

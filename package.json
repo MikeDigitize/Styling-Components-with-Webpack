@@ -1,7 +1,7 @@
 {
   "name": "styling-components",
   "version": "1.0.0",
-  "description": "A favour in exchange for alcohol",
+  "description": "How to style React components with Webpack",
   "scripts": {
     "start": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
   "keywords": [
     "kurtis",
     "css",
-    "alcohol"
+    "React"
   ],
   "author": "Mike",
   "license": "ISC",

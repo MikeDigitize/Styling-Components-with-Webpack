@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import CSSModule from 'react-css-modules';
 import styles from './css-modules-styles';
 
 export default class Title3 extends Component {

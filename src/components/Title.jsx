@@ -5,7 +5,8 @@ import styles from './css-react-modules-styles';
 class Title extends Component {
 	render() {
 		return (
-			<h1 styleName="title">I'm a CSS <span styleName="enlarge-and-green">React</span> Module!!</h1>
+			<h1 styleName="title">
+				I'm a CSS <span styleName="enlarge-and-green">React</span> Module!!</h1>
 		)
 	}
 }

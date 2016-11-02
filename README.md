@@ -105,7 +105,7 @@ export default class Title2 extends Component {
 
 ### Webpack
 
-Only the ommission of the `loaders!` command is needed.
+Only the ommission of the `modules!` command is needed.
 
 ```javascript
 import ExtractTextPlugin from 'extract-text-webpack-plugin';
